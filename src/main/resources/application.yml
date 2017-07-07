@@ -42,7 +42,7 @@ mybatis:
 logging:
   config: classpath:log4j2.xml
   level: debug
-  file: eumji-blog.log
+  file: /home/hugh/eumji-blog.log
 server:
   session-timeout : 3600
   port: 10080
