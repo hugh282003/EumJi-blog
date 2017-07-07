@@ -40,7 +40,7 @@ mybatis:
   config-location: classpath:mybatis-conf.xml
 #加载log4j2
 logging:
-  config: classpath:log4j2.xml
+  #config: classpath:log4j2.xml
   level: debug
   file: /home/hugh/eumji-blog.log
 server:
